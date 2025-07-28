@@ -1,0 +1,10 @@
+.maindiv{
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .left{
+    /* margin:5px; */
+    width: 100%;
+
+  }

@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+
+.gridbar{
+    display: grid;
+    grid-template-columns: 63% 2% 40%;
+}
+
+.scroll_hide{
+    overflow: scroll;
+    scrollbar-width: none;
+}
